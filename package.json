@@ -1,0 +1,23 @@
+{
+  "name": "calendar-dw-scheduler",
+  "version": "1.0.0",
+  "description": "A simple module for scheduling events and checking if events are scheduled for today.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MakarenkoYana/calendar-dw-schedule.git"
+  },
+  "keywords": [
+    "calendar",
+    "scheduler",
+    "javascript"
+  ],
+  "author": "MakarenkoYana",
+  "license": "MIT",
+  "dependencies": {
+    "dateworkutil": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
